@@ -1,1 +1,1 @@
-not empty
+my new file
